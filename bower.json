@@ -1,0 +1,17 @@
+{
+    "name": "molengo-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Denis Jacquerye"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/molengo-bower.git"
+    },
+    "description": "Molengo font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
